@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-color: teal;
+}
+
+ol {
+  padding: 10px 20px;
+}/*# sourceMappingURL=first.css.map */
